@@ -1,0 +1,2 @@
+# Trading-Managment
+Mini Project
