@@ -1,4 +1,2 @@
 # Trading-Managment
-Mini Project
-New changes added by naimish
-New chnges by Saurabh
+This is only the basic version of mini project
